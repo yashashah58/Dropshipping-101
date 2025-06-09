@@ -1,0 +1,37 @@
+body {
+  background: #f9f9f9;
+  font-family: sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  color: #333;
+}
+
+h1 {
+  font-size: 26px;
+  color: #1976d2;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 220px;
+  margin-bottom: 18px;
+}
+
+.section {
+  background: #e3f2fd;
+  margin: 14px auto;
+  padding: 12px;
+  max-width: 430px;
+  border-radius: 8px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #0d47a1;
+}
+
+p {
+  font-size: 15px;
+  color: #444;
+}
